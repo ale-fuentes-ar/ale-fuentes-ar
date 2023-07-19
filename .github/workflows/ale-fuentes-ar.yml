@@ -6,9 +6,7 @@ name: My-CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: [ "develop" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,8 +27,5 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      - name: My custom script
+        run: echo script -> My custom script
