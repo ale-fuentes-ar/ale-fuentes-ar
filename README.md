@@ -5,7 +5,7 @@
 ```js
 const alejandro = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
+  code: [Java, Spring, Javascript, Typescript, HTML, CSS],
   interest: [Technology, Languagens, Nature, Healft, and so on],
   learning-about: [microservice, docker. programmer, good practices, arquitechture, etc],
   looking-to-collaborate: [collaborate on programmer, Frontend, Backend, technoly, microservices, Cloud, and so on]
