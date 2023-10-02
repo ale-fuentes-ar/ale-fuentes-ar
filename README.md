@@ -1,4 +1,4 @@
-![banner_white](https://user-images.githubusercontent.com/108128617/233785511-3329f834-f466-4c78-ae10-4783aacf6af6.png)
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/ale-fuentes-ar/ale-fuentes-ar/assets/108128617/0bd513aa-ecfc-411b-8001-496dec7110eb)
 
 ## :microscope: find me in this code
 
