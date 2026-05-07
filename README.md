@@ -4,17 +4,14 @@
 
   FullStack Developer • Cloud Learning
 
-  [![][badge-email]][ale-email-hotmail]
-  [![][badge-instagram]][ale-instagram]
-  [![][badge-wordpress]][ale-linkedin]
-  [![][badge-linkedin]][ale-wordpress]
+  [![][badge-email]][ale-email-hotmail] [![][badge-instagram]][ale-instagram] [![][badge-linkedin]][ale-linkedin] [![][badge-wordpress]][ale-wordpress]
 
 </div>
 
 <div align="center">
-Hi everyone, I'm alejandro a full-stack dev, creative and graduated in System analysis.<br>
+Hi everyone, I'm Alejandro, a creative full-stack developer with a degree in Systems Analysis.<br>
 Passionate about changing people's lives through programming.<br>
-Some my skill is Java, Javascript, Angular, Cloud, and so on solutions.
+Some of my skills are Java, JavaScript, Angular, Cloud, and other solutions.
 </div>
 
 <br>
@@ -62,6 +59,6 @@ Some my skill is Java, Javascript, Angular, Cloud, and so on solutions.
 
 [badge-email]:https://img.shields.io/badge/Microsoft_Outlook-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=EBD03E
 [badge-instagram]:https://img.shields.io/badge/Instagram-020114?style=for-the-badge&logo=instagram&logoColor=EBD03E
-[badge-wordpress]:https://img.shields.io/badge/LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=EBD03E
-[badge-linkedin]:https://img.shields.io/badge/WordPress-020114?style=for-the-badge&logo=wordpress&logoColor=EBD03E
+[badge-wordpress]:https://img.shields.io/badge/WordPress-020114?style=for-the-badge&logo=wordpress&logoColor=EBD03E
+[badge-linkedin]:https://img.shields.io/badge/LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=EBD03E
 
